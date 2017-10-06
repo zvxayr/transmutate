@@ -1,0 +1,24 @@
+{
+  "name": "transmutate",
+  "version": "1.0.0",
+  "description": "Mutates object properties as specified by functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "mutate",
+    "transform",
+    "convert"
+  ],
+  "author": "zvxayr",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zvxayr/transmutate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zvxayr/transmutate/issues"
+  },
+  "homepage": "https://github.com/zvxayr/transmutate#readme"
+}
